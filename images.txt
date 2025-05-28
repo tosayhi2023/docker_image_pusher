@@ -1,1 +1,1 @@
-izakmarais/grafana-reporter
+jenkins/jenkins
