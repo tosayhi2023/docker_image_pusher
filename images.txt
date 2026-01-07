@@ -1,1 +1,1 @@
-grafana/grafana-image-renderer
+docker.io/wu529778790/panhub.shenzjd.com:latest
