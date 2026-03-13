@@ -1,1 +1,1 @@
-docker.io/wu529778790/panhub.shenzjd.com:latest
+grafana/grafana:latest
